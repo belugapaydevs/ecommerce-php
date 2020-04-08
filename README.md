@@ -1,10 +1,8 @@
 # Belugapay library to connect to the ecommerce api
 
+* [Transactions](#https://github.com/belugapaydevs/ecommerce-php/wiki/Transacciones)
+
 ## Run project
-
-### Requeriments
-
-* Docker installed
 
 ### Installation
 
