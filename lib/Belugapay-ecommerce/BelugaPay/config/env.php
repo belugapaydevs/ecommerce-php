@@ -12,7 +12,7 @@ class Environment {
           'version' => '0.0.1',
           'apiVersion' => '1.0.44',
           'apiBase' => 'http://transaction-api:8080/api/v2/',
-          'apiBaseCart' => 'https://4a88352fffd2.ngrok.io/',
+          'apiBaseCart' => 'http://shopping-cart:3000/',
         ];
         break;
       case 'production':
